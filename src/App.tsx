@@ -27,7 +27,7 @@ export default function App() {
                     <Margin margin="48px 0">
                         <Flex direction="row" justify="space-between" alignItems="center">
                             <Margin margin="0 12px 0 0">
-                                <Button variant="primary" target="_blank" href="https://discord.gg/v7RmnZMwdW">
+                                <Button variant="primary" target="_blank" href="https://discord.gg/wego">
                                     Join the Discord
                                 </Button>
                             </Margin>
